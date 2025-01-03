@@ -11,4 +11,4 @@
 ---
 
 **My contributions:**
-* Developed a Python script to generate normal distributions for model training purposes
+* Developed a Python script to generate normal distributions for model training
